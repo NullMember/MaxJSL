@@ -1,0 +1,2 @@
+Copy c74support folder from [Max SDK](https://cycling74.com/downloads/sdk) and JSL folder from [latest JoyShockLibrary release](https://github.com/JibbSmart/JoyShockLibrary/releases/latest) to here
+Tested with Max SDK 7.3.3 and JoyShockLibrar 2.2.0
