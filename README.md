@@ -1,2 +1,2 @@
 # MaxJSL
-JoyShockLibrary wrapper for Max/MSP
+Max/MSP wrapper for JoyShockLibrary
